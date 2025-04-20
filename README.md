@@ -40,7 +40,7 @@ Dependencies: Environement(ds), OpenAI API Key, Miniconda
 ```python test_package.py ``` 
 
 7) You should see your terminal output: Success!
-```Success!``
+
 
 ## Files to Edit
 
